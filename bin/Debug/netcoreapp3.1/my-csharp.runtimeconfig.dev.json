@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Navidu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Navidu\\.nuget\\packages"
+    ]
+  }
+}
